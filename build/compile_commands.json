@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/laba6/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\laba6.dir\\main.cpp.obj -c C:\\laba6\\main.cpp",
+  "file": "C:\\laba6\\main.cpp",
+  "output": "CMakeFiles\\laba6.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/laba6/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\lab.dir\\rhombus.cpp.obj -c C:\\laba6\\rhombus.cpp",
+  "file": "C:\\laba6\\rhombus.cpp",
+  "output": "CMakeFiles\\lab.dir\\rhombus.cpp.obj"
+}
+]
